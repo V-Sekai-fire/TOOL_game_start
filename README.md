@@ -3,3 +3,4 @@
 1. Does not have a graphical interface.
 2. Downloads the graphical downloader.
 3. Simple
+4. Uses casync prototcol
